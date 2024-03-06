@@ -11,5 +11,5 @@ In this challenge, we ask you to build a predictive model that answers the quest
 This dataset has been referred from Kaggle: https://www.kaggle.com/c/titanic/data.
 
 # Objective:
-Understand the Dataset & cleanup (if required).
-Build a strong classification model to predict whether the passenger survives or not.
+- Understand the Dataset & cleanup (if required).
+- Build a strong classification model to predict whether the passenger survives or not.
